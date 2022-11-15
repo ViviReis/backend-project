@@ -1,4 +1,4 @@
-# Green Salad API
+# Backend Project
 
 * [Libraries](#libraries)
 * [Required Software](#required-software)
