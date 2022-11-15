@@ -20,6 +20,3 @@ log4j.log
 
 #jenv
 .java-version
-
-#Ifood apps
-ifood/*
