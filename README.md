@@ -42,8 +42,8 @@ The example below shows how to run the test for each pipeline stage:
 
 | test type | command                               |
 |-----|---------------------------------------|
-| contract tests | `mvn test -Dgroups="create card tag"` |
-| functional tests | `mvn test -Dgroups="create pipe tag"` |
+| contract tests | `mvn test -Dgroups="create_card_tag"` |
+| functional tests | `mvn test -Dgroups="create_pipe_tag"` |
 
 ### Generating the test report
 
