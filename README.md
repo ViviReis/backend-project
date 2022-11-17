@@ -37,8 +37,8 @@ command line. It enables us to run in different test execution strategies and, a
 The test suites can be run directly by your IDE or by command line.
 If you run `mvn test` all the tests will execute because it's the regular Maven lifecycle to run all the tests.
 
-To run different suites based on the groups defined for each test you must inform the property `-Dgroups` and the group names. In order to exclude some group, you should use the property `-DexcludedGroups`.
-The example below shows how to run the test for each pipeline stage:
+To run different suites based on the groups defined for each test you must inform the property `-Dgroups` and the group names.
+The example below shows how to run the test for each tag:
 
 | test type | command                               |
 |-----|---------------------------------------|
